@@ -1,0 +1,13 @@
+{
+    "name": "carepulse-ai-root",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "cd carepulse-ai && npx expo start --clear",
+        "android": "cd carepulse-ai && npx expo start --android",
+        "ios": "cd carepulse-ai && npx expo start --ios",
+        "web": "cd carepulse-ai && npx expo start --web"
+    },
+    "dependencies": {
+        "expo": "^55.0.4"
+    }
+}
