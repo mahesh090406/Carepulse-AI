@@ -4,6 +4,9 @@
       "eas": {
         "projectId": "8334edb7-74d8-47b9-91ac-7160dd462c83"
       }
+    },
+    "android": {
+      "package": "com.mahesh090406.carepulseairoot"
     }
   }
 }
